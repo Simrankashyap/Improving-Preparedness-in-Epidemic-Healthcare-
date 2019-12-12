@@ -8,7 +8,7 @@ library(MASS)
 
 
 #set the current working directory
-setwd("C:/Users/Rusan/Desktop/School/ISQS 6349 - Predictive Analysis/Project/DengiAI")
+setwd("C:/Users/Datafilename")
 
 #reading the csv files
 features_train<- read.csv('dengue_features.csv')
